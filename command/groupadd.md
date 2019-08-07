@@ -34,7 +34,7 @@ groupadd(选项)(参数)
 groupadd -g 344 jsdigname
 ```
 
-此时在`/etc/passwd`文件中产生一个组ID（GID）是344的项目。
+此时在`/etc/group`文件中产生一个组ID（GID）是344的项目。
 
 
 <!-- Linux命令行搜索引擎：https://jaywcjlove.github.io/linux-command/ -->
